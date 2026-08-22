@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Thiago 👋
 
-<!--
-**tlp-2000/tlp-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação (7º semestre) em busca de oportunidade de estágio em Tecnologia da Informação. Curioso, organizado e gosto de aprender fazendo — este perfil reúne meus projetos de estudo em Python, automação, APIs.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- FastAPI
+- SQLite / PostgreSQL
+- Git e GitHub
+- Linux
+- n8n
+- C
+
+## 📌 Projetos em destaque
+
+- **API Bancária** — API REST construída com FastAPI, simulando operações bancárias.
+- **Classe Bancária (POO x não-POO)** — comparação de paradigmas de programação orientada a objetos.
+- **Automação com n8n** — fluxos de automação com Webhooks, HTTP Requests e tratamento de erros.
+
+## 🎓 Formação e certificações
+
+- Ciência da Computação — Universidade Estácio de Sá (cursando)
+- Concepção de Algoritmos Eficientes, Estáveis e Escaláveis — Estácio
+- Bootcamp Backend com Python — DIO / LuizaLabs
+- Bootcamp Automação com n8n — DIO / Santander
+
+## 📫 Contato
+
+- E-mail: thiagoluciano114@gmail.com
